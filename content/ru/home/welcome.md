@@ -7,7 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Centre for Analysis of Complex Systems. Sechenov University
+  Центр анализа
+  сложных систем
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -18,4 +19,5 @@ design:
 ---
 
 <br>
+
 **Центр анализа сложных систем (ЦАСС)** был основан в Сеченовском университете в 2020 году.
