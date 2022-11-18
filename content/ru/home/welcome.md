@@ -18,5 +18,4 @@ design:
 ---
 
 <br>
-
-The **Centre for Analysis of Complex Systems (CACS)** was founded in 2019 in Sechenov University.
+**Центр анализа сложных систем (ЦАСС)** был основан в Сеченовском университете в 2020 году.

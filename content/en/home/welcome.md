@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Centre for Analysis of Complex Systems (CACS)** was founded in 2020 in Sechenov University.
