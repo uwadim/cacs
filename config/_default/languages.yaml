@@ -7,6 +7,27 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  menu:
+    main:
+    - name: Tour
+      url: tour
+      weight: 10
+    - name: News
+      url: post
+      weight: 20
+    - name: People
+      url: people
+      weight: 30
+    - name: Events
+      url: event
+      weight: 40
+    - name: Publications
+      url: publication
+      weight: 50
+    - name: Contact
+      url: contact
+    weight: 60
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
@@ -30,5 +51,5 @@ ru:
  menu:
    main:
      - name: О центре
-       url: '#about'
-       weight: 1
+       url: about
+       weight: 10
