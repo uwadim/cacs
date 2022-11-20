@@ -62,7 +62,7 @@ ru:
       weight: 20
     - name: Репозитарий
       parent: methods
-      url: repository
+      url: methods/repository
       weight: 10
 
     - name: Образование
