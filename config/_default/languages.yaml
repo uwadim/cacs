@@ -8,6 +8,8 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
   title: CACS
+  params:
+    description: Centre for Analysis of Complex Systems of Sechenov University
   menu:
     main:
     - name: Tour
