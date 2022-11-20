@@ -10,7 +10,7 @@ baseURL: 'https://cacs.ai/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true

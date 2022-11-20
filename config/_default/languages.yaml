@@ -51,6 +51,22 @@ ru:
     description: Сайт Центра анализа сложных систем Сеченовского университета
   menu:
     main:
+    - name: Публикации
+      url: publications
+      weight: 10
+
+    - name: Методы
+      identifier: methods
+      weight: 20
+    - name: Репозитарий
+      parent: methods
+      url: repository
+      weight: 10
+
+    - name: Образование
+      url: education
+      weight: 30
+
     - name: О центре
       url: about
-      weight: 10
+      weight: 40
