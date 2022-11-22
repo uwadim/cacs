@@ -54,7 +54,7 @@ ru:
   menu:
     main:
     - name: Публикации
-      url: /en/publications
+      url: https://cacs.ai/en/publications
       weight: 10
 
     - name: Методы
