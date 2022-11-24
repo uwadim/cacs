@@ -20,7 +20,7 @@ header:
 {{< icon name="fa-brands fa-telegram" pack="fab" >}} [Наш телеграм-чат для научных сотрудников](https://t.me/cacs_sechenov)<br>
 {{< icon name="fa-brands fa-telegram" pack="fab" >}} [По научному и коммерческому сотрудничеству&nbsp;&mdash; наш главный статистик Александр Юрьевич](https://t.me/clinical_biostats)<br>
 
-## Для наших друзей и будущих коллег по коллаборациям:
+## Для наших коллег по коллаборациям:
 
 - [Сотрудничество для научно-исследовательских организаций и команд исследователей](https://vk.com/@medstats-sotrudnichestvo-dlya-nauchno-issledovatelskih-organizacii-i)
 - [Фармкомпаниям и контрактным исследовательским организациям](https://vk.com/@medstats-farmkompaniyam-i-kontraktnym-issledovatelskim-organizaciyam)
