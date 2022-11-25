@@ -1,5 +1,5 @@
 ---
-title: Мета-анализ
+title: Введение в мета-анализы
 
 # Listing view
 view: compact
