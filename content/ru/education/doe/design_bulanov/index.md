@@ -1,0 +1,1 @@
+# [Дизайн научных исследований в медицине](https://www.sechenovmedj.com/jour/article/view/283?locale=ru_RU#tab1)
