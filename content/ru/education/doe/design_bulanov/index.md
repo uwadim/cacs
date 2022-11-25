@@ -1,1 +1,3 @@
-# [Дизайн научных исследований в медицине](https://www.sechenovmedj.com/jour/article/view/283?locale=ru_RU#tab1)
+# [Дизайн научных исследований в медицине][def]
+
+[def]: https://www.sechenovmedj.com/jour/article/view/283?locale=ru_RU#tab1
