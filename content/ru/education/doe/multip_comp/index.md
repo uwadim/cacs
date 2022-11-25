@@ -1,4 +1,4 @@
-# [Поправка на множественные сравнения][def]
+# Поправка на множественные сравнения
 
-[def]: https://telegra.ph/Mnozhestvennye-sravneniya-09-28
+[Ссылка на статью](https://telegra.ph/Mnozhestvennye-sravneniya-09-28)
 
