@@ -69,7 +69,7 @@ ru:
       identifier: education
       url: education
       weight: 30
-    - name: Мета-анализ
+    - name: Введение в мета-анализы
       parent: education
       url: education/meta_analysis
       weight: 10
