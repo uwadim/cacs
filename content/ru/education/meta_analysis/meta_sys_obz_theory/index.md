@@ -31,3 +31,15 @@ title: Теоретические материалы по систематиче
     - способы оценки гетерогенности
     - анализ чувствительности
     - график forest plot
+
+Гайды по систематическим обзорам и метаанализам
+
+1. [Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook) — замечательное онлайн-пособие не только по метаанализам, но и по элементам биостатистики, эпидемиологии и работы с данными.
+
+1. [PRISMA](https://www.bmj.com/content/372/bmj.n71) — Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement и Supplementary Materials в этой же статье.
+
+1. [PRISMA FlowChart](https://www.equator-network.org/wp-content/uploads/2013/09/PRISMA-2009-Flow-Diagram-MS-Word.doc) в формате MsWord.
+
+1. [Дополнения к PRISMA](https://www.bmj.com/content/372/bmj.n71/related).
+
+1. Рекомендации [American Psychological Association’s Meta-Analysis Reporting Standards (MARS)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572251/).
