@@ -69,11 +69,15 @@ ru:
       identifier: education
       url: education
       weight: 30
-    - name: Введение в мета-анализы
+    - name: Раздел "Введение в мета-анализы"
       parent: education
       url: education/meta_analysis
       weight: 10
-    - name: Статьи и заметки
+    - name: Раздел "Дизайн экспериментов"
+      parent: education
+      url: education/doe
+      weight: 10
+    - name: Раздел "Статьи и заметки"
       parent: education
       url: education/notes
       weight: 10
