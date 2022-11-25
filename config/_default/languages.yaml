@@ -73,6 +73,10 @@ ru:
       parent: education
       url: education/meta_analysis
       weight: 10
+    - name: Статьи и заметки
+      parent: education
+      url: education/notes
+      weight: 10
 
     - name: О центре
       url: about
