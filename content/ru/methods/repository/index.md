@@ -1,5 +1,5 @@
 ---
-title: Репозиторий программного обеспечения
+title: Сервис-репозиторий программного обеспечения
 date: "2022-11-20T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
