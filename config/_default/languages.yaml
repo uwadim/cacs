@@ -3,34 +3,34 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
-  title: CACS
-  params:
-    description: Centre for Analysis of Complex Systems of Sechenov University
-  menu:
-    main:
-    - name: Tour
-      url: tour
-      weight: 10
-    - name: News
-      url: post
-      weight: 20
-    - name: People
-      url: people
-      weight: 30
-    - name: Events
-      url: event
-      weight: 40
-    - name: Publications
-      url: publications
-      weight: 50
-    - name: Contact
-      url: contact
-      weight: 60
-
+#en:
+#  languageCode: en-us
+#  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+#  contentDir: content/en
+#  title: CACS
+#  params:
+#    description: Centre for Analysis of Complex Systems of Sechenov University
+#  menu:
+#    main:
+#    - name: Tour
+#      url: tour
+#      weight: 10
+#    - name: News
+#      url: post
+#      weight: 20
+#    - name: People
+#      url: people
+#      weight: 30
+#    - name: Events
+#      url: event
+#      weight: 40
+#    - name: Publications
+#      url: publications
+#      weight: 50
+#    - name: Contact
+#      url: contact
+#      weight: 60
+#
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
@@ -54,13 +54,13 @@ ru:
   menu:
     main:
     - name: Публикации
-      url: https://cacs.ai/en/publications
+      url: publications
       weight: 10
 
     - name: Методы
       identifier: methods
       weight: 20
-    - name: Репозитарий
+    - name: Репозиторий
       parent: methods
       url: methods/repository
       weight: 10
@@ -69,15 +69,15 @@ ru:
       identifier: education
       url: education
       weight: 30
-    - name: Раздел "Введение в мета-анализы"
+    - name: Введение в мета-анализы
       parent: education
       url: education/meta_analysis
       weight: 10
-    - name: Раздел "Дизайн экспериментов"
+    - name: Дизайн экспериментов
       parent: education
       url: education/doe
       weight: 10
-    - name: Раздел "Статьи и заметки"
+    - name: Статьи и заметки
       parent: education
       url: education/notes
       weight: 10
