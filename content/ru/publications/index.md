@@ -6,6 +6,12 @@ header:
   image: ""
 ---
 
+**2023**
+
+ - Enikeev D, Morozov A, Bazarkin A, Shpikina A, Brill B, Teoh JY, Suvorov A, et al.; ESUT Ablative Group. Thermal ablation vs. active surveillance for renal masses: a systematic review and network meta-analysis. Minerva Urol Nephrol 2023;75:000-000. https://doi.org/10.23736/S2724-6051.22.05036-4
+ - Moiseev, S., Bulanov, N., Crnogorac, M., Direskeneli, H., … Suvorov, A…. (2023). Traditional and disease specific risk factors for cardiovascular events in ANCA-associated vasculitis: a multinational retrospective study. The Journal of Rheumatology, jrheum.220851. https://doi.org/10.3899/jrheum.220851
+ - Rachina S, Belkova Y, Shchendrygina A, Suvorov A, Bourgeois D, Karuk M, Sitnikova V, Dyatlov N. Safety and Efficacy of Different Anticoagulant Doses for Patients with COVID-19 in the ICU: A Systematic Review and Meta-Analysis. Journal of Clinical Medicine. 2023; 12(6):2222. https://doi.org/10.3390/jcm12062222
+
 **2022**
 
  - A. Zhou, A. Ermolaeva, E. Ullner, J. Kurths, S. Gordleeva, A. Zaikin, Noise-induced artificial intelligence, Physical Review Research (in press 2022).
