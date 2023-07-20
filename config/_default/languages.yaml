@@ -53,6 +53,10 @@ ru:
     description: Сайт Центра анализа сложных систем Сеченовского университета
   menu:
     main:
+    - name: События
+      url: events
+      weight: 5
+
     - name: Публикации
       url: publications
       weight: 10
